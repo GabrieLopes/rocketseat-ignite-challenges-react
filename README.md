@@ -1,4 +1,4 @@
-# ignite-challenges-react
+#
 <img src="./.github/ignite.png" align="center" />
 
 </br>
@@ -11,9 +11,9 @@ The challenges from the React track from the Ignite Bootcamp provided by @Rocket
 
 ## 🖥 Setup
 - Clone the repository
-- Enter the challenge folder you want
-- Run `npm install` to install dependecies or `yarn` to install dependecies
-- Run `npm run` dev to run the project or `yarn dev` to run the project
+- Enter the challenge folder you want and make sure that you have `node`, `npm` and `yarn` installed
+- Run `yarn` to install dependecies
+- Run  `yarn dev` to run the project
 
 ## 🚧 Built With
 - ReactJS
