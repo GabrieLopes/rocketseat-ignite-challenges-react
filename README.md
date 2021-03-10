@@ -18,3 +18,6 @@ The challenges from the React track from the Ignite Bootcamp provided by @Rocket
 ## 🚧 Built With
 - ReactJS
 - TypeScript
+
+## 💡 Challenge One
+The first challenge consists on developing the code to allow us create a new task, edit if the status of the task, if was completed(or not) and delete other tasks. 
