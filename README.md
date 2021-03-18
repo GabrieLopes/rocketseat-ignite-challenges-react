@@ -14,7 +14,8 @@ The challenges from the React track from the Ignite Bootcamp provided by @Rocket
 - Enter the challenge folder you want and make sure that you have `node`, `npm` and `yarn` installed
 - Run `yarn` to install dependecies
 - Run  `yarn dev` to run the project
-
+- If you're facing "connection refused on port 3333" when trying to run the second challenge, please run  `yarn dev` and in another terminal run `yarn server`
+ 
 ## 🚧 Built With
 - ReactJS
 - TypeScript
